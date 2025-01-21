@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi there 👋
+I’m Pooja Zore, an Electronics and Telecommunication Engineering Graduate passionate about Embedded Systems and Advanced C Programming.
 
-<!--
-**poojazore/poojazore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning
+Advanced Embedded Systems programming at Emertxe Information Technologies
+Building projects using PIC Microcontrollers and Linux Kernel Programming
+🔭 I’m currently working on
+Projects that involve device interfacing, communication protocols, and system programming
+Enhancing my skills in Data Structures and Algorithms
+💬 Ask me about
+Embedded Systems Design
+C Programming and Problem Solving
+Communication Protocols like UART, SPI, and I2C
+📫 How to reach me
+Email: poojazore3@gmail.com
+LinkedIn: Pooja Zore
+⚡ Fun fact
+I love solving challenging problems in embedded systems and exploring how technology powers everyday devices!
